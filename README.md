@@ -16,7 +16,7 @@
 
 2. In GitHub Desktop, clone the repository:
 
-    - _GitHub Desktop > File > CLone Repository... > `sandint2011/TimeKeepers`._
+    - _GitHub Desktop > File > Clone Repository... > `sandint2011/TimeKeepers`._
 
 ## Unity
 
