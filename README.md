@@ -1,4 +1,4 @@
-# Grape Juice City
+# GrapeJuiceCity
 
 # Installation & Setup
 
@@ -10,7 +10,7 @@
 
     - If you prefer, you can install [Git](https://gitforwindows.org/) instead, but most students are less familiar with the commandline and prefer a GUI.
 
-### TimeKeepers Repository
+### GrapeJuiceCity Repository
 
 1. Accept the GitHub/email invitation to become a collaberator on the TimeKeepers repository.
 
